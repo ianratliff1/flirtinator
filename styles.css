@@ -1,0 +1,11 @@
+#messageBox {
+    width: 500px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+button {
+    margin: 0 auto;
+    position: relative;
+    left: 50%;
+}
